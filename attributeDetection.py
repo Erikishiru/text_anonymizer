@@ -1,11 +1,9 @@
 from nltk.tag import StanfordNERTagger
-from nltk.tokenize import word_tokenize
-import re
+from nltk.tokenize import word_tokenize 
 import spacy
 import os
 import sys
 from pathlib import Path
-from pymagnitude import Magnitude
 import csv
 
 csv_file = open('generated_database.csv', 'w')
