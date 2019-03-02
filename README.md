@@ -1,6 +1,6 @@
 # text_anonymizer
-Text Anonymizer, Amendus Software Labs, SIH
-
+Text Anonymizer, Amadeus Software Labs, SIH
+====
 Installation
 
 Methord One
